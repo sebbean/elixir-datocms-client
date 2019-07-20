@@ -34,7 +34,7 @@ defmodule DatocmsClient.Mixfile do
       {:ex_doc, "~> 0.19", only: :dev, runtime: false},
       {:exjsx, "~> 3.2"},
       {:json_hyperschema_client_builder, "~> 0.9.1"},
-      {:httpoison, "~> 0.11.1"},
+      {:httpoison, "~> 1.4"},
       {:memoize, "~> 1.3"},
       {:morphix, "~> 0.0.7"}
     ]
